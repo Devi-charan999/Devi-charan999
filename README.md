@@ -26,7 +26,7 @@
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,cs,php,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,cs," />
 </p>
 
 ### Frontend Development
@@ -75,20 +75,6 @@
 - 📊 Student Attendance Portal
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Devi-charan999&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devi-charan999&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-charan999&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
